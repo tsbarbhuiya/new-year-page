@@ -381,6 +381,7 @@ main{
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(2, 1fr);
     gap: 24px;
+    margin-top: 48px;
 }
 
 .seventh-container img {
@@ -388,7 +389,6 @@ main{
     height: auto;
     object-fit: cover;
     border-radius: 16px;
-    margin-top: 48px;
 }
 
 
